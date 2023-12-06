@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/akashroy2657/management/static/css/main.7ad32ce6.css",
+    "main.js": "/akashroy2657/management/static/js/main.bcef29e8.js",
+    "static/js/787.022c29eb.chunk.js": "/akashroy2657/management/static/js/787.022c29eb.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/akashroy2657/management/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/akashroy2657/management/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/akashroy2657/management/index.html",
+    "main.7ad32ce6.css.map": "/akashroy2657/management/static/css/main.7ad32ce6.css.map",
+    "main.bcef29e8.js.map": "/akashroy2657/management/static/js/main.bcef29e8.js.map",
+    "787.022c29eb.chunk.js.map": "/akashroy2657/management/static/js/787.022c29eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad32ce6.css",
+    "static/js/main.bcef29e8.js"
+  ]
+}
